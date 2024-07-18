@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridhik9" alt="hridhik9" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analytics and visualization**
+- 🌱 I’m currently learning **some frameworks and course to upskill**
 
-- 👯 I’m looking to collaborate on **Data Analytics projects**
+- 👯 I’m looking to collaborate on **Development Projects**
 
 - 💬 Ask me about **Java, Python, C**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hridhik johnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hridhik johnson" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hridhikjohnson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hridhikjohnson/" height="30" width="40" /></a>
 <a href="https://instagram.com/_hridhik._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hridhik._" height="30" width="40" /></a>
 </p>
 
@@ -27,4 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridhik9&show_icons=true&locale=en&layout=compact" alt="hridhik9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridhik9&show_icons=true&locale=en" alt="hridhik9" /></p>
-
